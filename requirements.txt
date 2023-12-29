@@ -1,0 +1,14 @@
+numpy==1.26.2
+pandas==2.1.3
+matplotlib
+scikit-learn
+scipy
+prettytable
+tensorflow
+seaborn
+openpyxl
+boruta
+tqdm
+jupyter
+notebook
+ipykernel
